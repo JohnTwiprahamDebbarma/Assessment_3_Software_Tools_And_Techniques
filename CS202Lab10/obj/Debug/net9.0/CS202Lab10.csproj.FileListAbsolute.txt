@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CS202Lab10\bin\Debug\net9.0\CS202Lab10.exe
+C:\Users\Admin\source\repos\CS202Lab10\bin\Debug\net9.0\CS202Lab10.deps.json
+C:\Users\Admin\source\repos\CS202Lab10\bin\Debug\net9.0\CS202Lab10.runtimeconfig.json
+C:\Users\Admin\source\repos\CS202Lab10\bin\Debug\net9.0\CS202Lab10.dll
+C:\Users\Admin\source\repos\CS202Lab10\bin\Debug\net9.0\CS202Lab10.pdb
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.dll
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\refint\CS202Lab10.dll
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.pdb
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\CS202Lab10.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CS202Lab10\obj\Debug\net9.0\ref\CS202Lab10.dll
